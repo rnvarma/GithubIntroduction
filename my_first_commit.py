@@ -4,7 +4,7 @@
 github!!!"""
 
 def awesome_function():
-    return 42
+    return 30
     
 def less_awesome_function():
     return 13
